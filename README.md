@@ -83,6 +83,10 @@ recv 64 [HTTP/1.1 200 OK]
 Done
 ```
 
+## Media
+
+![working_setup](media.jpg)
+
 ## Credits
 
 All code was written by the mbedos people. Example configuration file by me.
