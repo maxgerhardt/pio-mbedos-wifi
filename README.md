@@ -37,7 +37,7 @@ ESP-01 is not supported because the AT firmware can't fit on the flash.
 | TX  | RXD0 (GPIO1)  | choose a hardware serial pin for mbed-board
 | RX  | TXD0 (GPIO3)  | choose a hardware serial pin for mbed-board
 | RTS  | CTS0 (IO13)  | optional, NodeMCU D7
-| CTR  | RTS0 (IO15)  | optional, NodeMCU D8
+| CTS  | RTS0 (IO15)  | optional, NodeMCU D8
 
 If you do not set the RTS/CTS hardware flow control pins to "NC" (not connected) in the `platformio.ini`.
 
